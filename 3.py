@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+#
+# this happen to work for this problem, but may not cover the general case
+#
+
 n = 600851475143
 max = n
 devisor = 1
