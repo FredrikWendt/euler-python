@@ -1,4 +1,5 @@
 euler-python
 ============
 
-Project Euler Problems, solved with Python
+Problems from http://www.projecteuler.net/ as "solved" with friends at 
+GothPy.
